@@ -1,0 +1,29 @@
+Build & Deployment Process
+
+1. Install Node.js (v18 or above)
+
+2. Open project folder
+
+3. Install dependencies:
+
+npm install
+
+4. Run development server:
+
+npm run dev
+
+5. Open browser:
+
+http://localhost:5173
+
+Mobile Testing:
+
+npm run dev -- --host
+
+Open generated network URL on smartphone connected to the same Wi-Fi network.
+
+Deployment Platforms:
+
+• Vercel
+• Netlify
+• GitHub Pages (with configuration)
